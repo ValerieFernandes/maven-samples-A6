@@ -16,7 +16,7 @@ pipeline {
 
   }
   tools {
-    maven 'maven'
-    jdk 'jdk_8'
+    maven 'mvn'
+    jdk 'java'
   }
 }
